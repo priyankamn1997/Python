@@ -1,1 +1,0 @@
-[200~When you clone a repository, you don't get one file, like you may in other centralized version control systems. By cloning with Git, you get the entire repository - all files, all branches, and all commits. Cloning a repository is typically only done once, at the beginning of your interaction with a project.
